@@ -3,7 +3,6 @@ pipeline{
     stages{
         stage('1-clone'){
             steps{
-               
             }
         }
         stage('2-systemscheck'){
